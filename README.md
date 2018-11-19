@@ -25,7 +25,7 @@ mercado que é seu cliente (Sacado) com vencimento para daqui a 1 mês, mas o ce
 necessita de dinheiro hoje para pagar uma dívida. O cliente procurar a Financeira para adiantar o
 cheque, a taxa cobrada é de 5% a.m (juros compostos), ou seja, o Cedente vai receber hoje
 95% do valor do cheque (R$9.500) , os R$ 500 são chamados de valor de deságio e a Financeira vai
-receber os de R$10.000 no final no vencimento do título
+receber os de R$10.000 no final no vencimento do título.
 Este trabalho mostra a análise de dados mascarados da financeira,com os seguintes objetivos:
 
 1-Análise descritiva da carteira de títulos da Financeira
