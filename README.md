@@ -8,6 +8,7 @@ dá por meio de uma instituição financeira que “compra” o título recebív
 taxa de juros de deságio a de acordo com o prazo do recebível.
 
 Conceitos:
+
 Cedente-Cedente é o cliente da Financeira e o titular dos recebíveis, que são cedidos onerosamente à
 Financeira
 
