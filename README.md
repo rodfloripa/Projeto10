@@ -21,5 +21,7 @@ Data de emissão do título- Data em que o título foi cedido para a Financeira
 Este trabalho mostra a análise de dados mascarados de uma financeira,com os seguintes objetivos:
 
 1-Análise descritiva da carteira de títulos da empresa
+
 2-Segmentação de títulos com base em um perfil semelhante
+
 3-Modelo preditivo para prever os títulos que serão pagos em dia e aqueles que serão pagos em atraso
